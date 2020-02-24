@@ -40,7 +40,7 @@
 ### 第4周
 `Board.java`<br>
 `Solver.java`<br>
-> 得分: 84/100
+> 得分: 84/100<Br>
 > Correctness:  50/51 tests passed<Br>
 > Memory:       11/22 tests passed<br>
 > Timing:       64/125 tests passed<Br>
@@ -48,7 +48,7 @@
 ### 第5周
 `PointSET.java`<br>
 `KdTree.java`<br>
-> 得分: 95/100
+> 得分: 95/100<br>
 > Correctness:  32/35 tests passed<br>
 > Memory:       16/16 tests passed<Br>
 > Timing:       42/42 tests passed<Br>
