@@ -82,3 +82,12 @@
 > Correctness:  36/36 tests passed<br>
 > Memory:       4/4 tests passed<br>
 > Timing:       27/27 tests passed<br>
+
+### 第2周
+
+`SeamCarver.java`
+
+> 得分: 94/100<br>
+> Correctness:  29/31 tests passed<Br>
+> Memory:       6/6 tests passed<br>
+> Timing:       15/17 tests passed<br>
