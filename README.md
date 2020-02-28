@@ -9,7 +9,7 @@
 
 ### 第1周: 
 
-[`percolation.java`](percolation.java)
+[`Percolation.java`](Percolation.java)
 
 [`PercolationStats.java`](PercolationStats.java)
 
@@ -67,7 +67,7 @@
 > Timing:       42/42 tests passed<Br>
 
 
-<br><Br><Br>
+<br><Br>
 ## [Part. II](https://www.coursera.org/learn/algorithms-part2/home/welcome)
 
 ### 第1周
