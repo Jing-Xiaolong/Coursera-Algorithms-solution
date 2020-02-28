@@ -91,3 +91,12 @@
 > Correctness:  29/31 tests passed<Br>
 > Memory:       6/6 tests passed<br>
 > Timing:       15/17 tests passed<br>
+
+### 第3周
+
+['BaseballElimination.java`](BaseballElimination.java)
+
+> 得分: 100/100<br>
+> Correctness:  23/23 tests passed<br>
+> Memory:       4/4 tests passed<Br>
+> Timing:       1/1 tests passed<Br>
