@@ -94,9 +94,18 @@
 
 ### 第3周
 
-['BaseballElimination.java`](BaseballElimination.java)
+[`BaseballElimination.java`](BaseballElimination.java)
 
 > 得分: 100/100<br>
 > Correctness:  23/23 tests passed<br>
 > Memory:       4/4 tests passed<Br>
 > Timing:       1/1 tests passed<Br>
+
+### 第4周
+
+[`BoggleSolver.java`](BoggleSolver.java)
+
+> 得分: 100/100<br>
+> Correctness:  13/13 tests passed<br>
+> Memory:       3/3 tests passed<Br>
+> Timing:       9/9 tests passed<br>
