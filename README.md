@@ -109,3 +109,16 @@
 > Correctness:  13/13 tests passed<br>
 > Memory:       3/3 tests passed<Br>
 > Timing:       9/9 tests passed<br>
+
+### 第5周
+
+[`MoveToFront.java`](MoveToFront.java)
+
+[`CircularSuffixArray.java`](CircularSuffixArray.java)
+
+[`BurrowsWheeler.java`](BurrowsWheeler.java)
+
+> 得分: 94/100<Br>
+> Correctness:  68/68 tests passed<Br>
+> Memory:       10/10 tests passed<Br>
+> Timing:       153/159 tests passed<Br>
